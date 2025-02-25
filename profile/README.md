@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://github.com/NOVA-RICS-Open-Lab/.github/blob/main/profile/favicon.ico">
-</head>
-
 <p align="center">
   <a href="">
   <img width="900" src="https://github.com/NOVA-RICS-Open-Lab/.github/blob/main/profile/nova_rics_open_lab_banner.png"></a>
