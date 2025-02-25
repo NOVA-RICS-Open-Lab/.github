@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="https://github.com/NOVA-RICS-Open-Lab/.github/blob/main/profile/favicon.ico">
 </head>
 
 <p align="center">
