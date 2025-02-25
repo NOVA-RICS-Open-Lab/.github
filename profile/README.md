@@ -1,3 +1,5 @@
+<link rel="icon" href="https://github.com/NOVA-RICS-Open-Lab/.github/blob/main/profile/favicon.ico" type="image/x-icon">
+
 <p align="center">
   <a href="">
   <img width="900" src="https://github.com/NOVA-RICS-Open-Lab/.github/blob/main/profile/nova_rics_open_lab_banner.png"></a>
